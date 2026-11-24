@@ -1,4 +1,4 @@
-##T16 Processor
+## T16 Processor
 
 **A custom 8-bit processor designed and implemented from scratch using Logisim Evolution.**
 
