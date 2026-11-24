@@ -1,5 +1,3 @@
-# T16-Tiny-Processor
-A custom 8-bit CPU architecture designed and implemented from scratch using Logisim Evolution.
 
 # T16 Processor
 
