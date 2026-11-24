@@ -1,3 +1,7 @@
+##T16 Processor
+
+**A custom 8-bit processor designed and implemented from scratch using Logisim Evolution.**
+
 T16 is an educational CPU project developed to explore computer architecture, digital logic design, instruction set architecture (ISA), and processor implementation.
 
 The processor was designed from the ground up, including its instruction set, ALU, control unit, registers, memory interface, and execution logic.
